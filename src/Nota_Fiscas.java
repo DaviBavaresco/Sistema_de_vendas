@@ -6,11 +6,16 @@ public class Nota_Fiscas {
     private Cliente cliente;
     private List<Produto> produtos;
 
+
+
+
     public Nota_Fiscas(int numero, Cliente cliente) {
+
         this.numero = numero;
         this.cliente = cliente;
         produtos=new ArrayList<Produto>();
     }
+
 
 public List<Produto> getProdutos(){
     return produtos;
@@ -79,4 +84,7 @@ public float valorProdutos() {
         System.out.println("--------------------");
     }
 }
+
+
+
 

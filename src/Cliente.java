@@ -1,5 +1,6 @@
 public class Cliente {
     private String nome;
+
     private String cpf;
     private String fone;
 
@@ -8,6 +9,10 @@ public class Cliente {
         this.cpf = cps;
         this.fone = fone;
     }
+
+
+
+
 
     public String getNome() {
         return nome;
@@ -23,6 +28,7 @@ public class Cliente {
 
         this.nome = nome;
     }
+
 
     public String getCpf() {
         return cpf;

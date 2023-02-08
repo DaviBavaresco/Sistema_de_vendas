@@ -12,5 +12,6 @@ public class Main {
         n1.incluirProduto(p3);
         n1.getCopiaProdutos();
         n1.imprimeNota();
+        System.out.println("teste 1");
     }
 }

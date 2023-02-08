@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="61345f0e-71a3-461e-98d1-6c3f23a65894" name="Changes" comment="segundo commit">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+=======
+    <list default="true" id="61345f0e-71a3-461e-98d1-6c3f23a65894" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Nota_Fiscas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nota_Fiscas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nota_Fiscas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Produto.java" afterDir="false" />
+>>>>>>> origin/master
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +30,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="0a3e32bb-39f4-482a-99e3-f956de179f58" />
+        <option name="url" value="https://github.com/DaviBavaresco/Sistema_de_vendas.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+=======
+>>>>>>> origin/master
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -41,7 +61,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+<<<<<<< HEAD
     "last_opened_file_path": "C:/Users/Davi Antônio/Desktop/NotasFiscais_1_5",
+=======
+    "last_opened_file_path": "E:/Fabrica",
+>>>>>>> origin/master
     "settings.editor.selected.configurable": "preferences.general"
   }
 }]]></component>
@@ -61,10 +85,18 @@
       <option name="project" value="LOCAL" />
       <updated>1675708672932</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="segundo commit">
+      <created>1675888977365</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675888977365</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="terceiro commit&#10;arrumei as listas e coloquei teste de segurança" />
     <MESSAGE value="segundo commit" />
     <option name="LAST_COMMIT_MESSAGE" value="segundo commit" />
   </component>
